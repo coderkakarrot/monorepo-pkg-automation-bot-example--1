@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example-1/compare/metrics-v0.0.1...metrics/v0.0.2) (2024-03-21)
+
+
+### Bug Fixes
+
+* **metrics:** Adds fix 1 ([27a7a84](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example-1/commit/27a7a840455b3c9a1f8dc44179a4a3715d338df4))
+
 ## [0.0.3](https://github.com/coderkakarrot/monorepo-pkg-automation-bot-example/compare/metrics/v0.0.2...metrics/v0.0.3) (2024-03-21)
 
 
