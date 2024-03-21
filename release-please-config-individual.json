@@ -13,7 +13,8 @@
       "version-file": "VERSION"
     },
     "metrics": {
-      "component": "metrics"
+      "component": "metrics",
+      "version-file": "metrics/VERSION"
     },
     "api": {
       "component": "api"
